@@ -1,0 +1,10 @@
+Type,Method,Q1,Q3
+1,inverted_cdf,1.0,4.0
+2,averaged_inverted_cdf,1.0,4.0
+3,closest_observation,1.0,4.0
+4,interpolated_inverted_cdf,1.0,3.0
+5,hazen,1.0,4.0
+6,weibull,1.0,4.25
+7,linear,1.0,3.5
+8,median_unbiased,1.0,4.083
+9,normal_unbiased,1.0,4.062
